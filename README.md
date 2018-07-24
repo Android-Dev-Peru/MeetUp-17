@@ -9,12 +9,12 @@ Slide : https://goo.gl/RYGGbC
 
 Repo  : - (Java) https://github.com/leandro1995/JobEvernot
 
-		- (Kotlin) https://github.com/leandro1995/JobEvernotKotlin
+        - (Kotlin) https://github.com/leandro1995/JobEvernotKotlin
 
 - **"Introducción Apollo GraphQL Client for Android" - Jesús Alberto Briceño Vílchez**
 
  Slide : https://goo.gl/Y44oHL
- 
+
  Repo  : https://bitbucket.org/jesusabv93/apollodemo
        
 ## Organización 
