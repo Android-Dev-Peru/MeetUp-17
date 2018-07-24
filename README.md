@@ -8,8 +8,8 @@ JobScheduler en Android P con Kotlin - Introducción Apollo GraphQL Client for A
 Slide : https://goo.gl/RYGGbC
 
 Repo  : 
- (Java) https://github.com/leandro1995/JobEvernot
- (Kotlin) https://github.com/leandro1995/JobEvernotKotlin
+ -(Java) https://github.com/leandro1995/JobEvernot
+ -(Kotlin) https://github.com/leandro1995/JobEvernotKotlin
 
 - **"Introducción Apollo GraphQL Client for Android" - Jesús Alberto Briceño Vílchez**
 
