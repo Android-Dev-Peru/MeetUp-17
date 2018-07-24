@@ -6,12 +6,15 @@ JobScheduler en Android P con Kotlin - Introducción Apollo GraphQL Client for A
 - **"JobScheduler en Android P con Kotlin (Evernote vs Firebase)"" - Leandro Castillo Borja**
 
 Slide : https://goo.gl/RYGGbC
+
 Repo  : - (Java) https://github.com/leandro1995/JobEvernot
+
 		- (Kotlin) https://github.com/leandro1995/JobEvernotKotlin
 
 - **"Introducción Apollo GraphQL Client for Android" - Jesús Alberto Briceño Vílchez**
 
  Slide : https://goo.gl/Y44oHL
+ 
  Repo  : https://bitbucket.org/jesusabv93/apollodemo
        
 ## Organización 
